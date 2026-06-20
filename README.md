@@ -2,23 +2,23 @@
 
 Search your images using natural language — no tags, no filenames, no manual organization.
 
-🔗 **Live Demo:** https://clip-visual-search-engine.streamlit.app/
+🔗 **Live :** https://clip-visual-search-engine.streamlit.app/
 
-## 🚀 Features
+## Features
 
-* 🔤 Search images using plain English descriptions
-* 🖼️ Find visually similar images using image-to-image search
-* ⚡ Fast vector similarity search with FAISS
-* 🤖 CLIP-powered multimodal embeddings
-* 🌐 Easy-to-use Streamlit interface
-* ☁️ Deployed on Streamlit Community Cloud
+* Search images using plain English descriptions
+* Find visually similar images using image-to-image search
+* Fast vector similarity search with FAISS
+* CLIP-powered multimodal embeddings
+* Easy-to-use Streamlit interface
+* Deployed on Streamlit Community Cloud
 
 
-## 📌 What It Does
+## What It Does
 
 Upload a collection of images and search them in two ways:
 
-### 🔤 Text Search
+### Text Search->
 
 Describe what you're looking for:
 
@@ -28,13 +28,13 @@ Describe what you're looking for:
 
 The system finds the most relevant images from your collection.
 
-### 🖼️ Image Search
+###  Image Search->
 
 Upload an image and find visually similar images from the indexed collection.
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```text
 Image  ──┐
@@ -63,7 +63,7 @@ FAISS performs high-speed nearest-neighbor search to retrieve the most relevant 
 
 
 
-## ⚙️ Run Locally
+##  Run Locally
 
 Clone the repository:
 
