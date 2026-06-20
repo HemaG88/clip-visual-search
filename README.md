@@ -4,16 +4,6 @@ Search your images using natural language — no tags, no filenames, no manual o
 
 🔗 **Live Demo:** https://clip-visual-search-engine.streamlit.app/
 
----
-
-## 🎬 Demo
-
-<p align="center">
-  <img src="demo.gif" alt="Visual Search Engine Demo" width="900">
-</p>
-
----
-
 ## 🚀 Features
 
 * 🔤 Search images using plain English descriptions
@@ -23,7 +13,6 @@ Search your images using natural language — no tags, no filenames, no manual o
 * 🌐 Easy-to-use Streamlit interface
 * ☁️ Deployed on Streamlit Community Cloud
 
----
 
 ## 📌 What It Does
 
@@ -35,7 +24,7 @@ Describe what you're looking for:
 
 * "a dog on a beach"
 * "red car at night"
-* "mountain landscape"
+* "Wine on a table"
 
 The system finds the most relevant images from your collection.
 
@@ -72,19 +61,7 @@ FAISS performs high-speed nearest-neighbor search to retrieve the most relevant 
 
 ---
 
-## 📂 Project Structure
 
-```text
-visual-search-engine/
-│
-├── app.py
-├── requirements.txt
-├── demo.gif
-├── README.md
-└── assets/
-```
-
----
 
 ## ⚙️ Run Locally
 
@@ -137,26 +114,4 @@ https://clip-visual-search-engine.streamlit.app/
 
 Upload a few images, click **Add to Index**, and start searching.
 
----
-
-## ⚠️ Note
-
-The application is hosted on Streamlit Community Cloud's free tier.
-
-Storage is not persistent across restarts, so indexed images are cleared whenever the application restarts or is redeployed.
-
-Simply re-upload your images and click **Add to Index** again.
-
----
-
-## 👩‍💻 Author
-
-**Hemavathi G**
-
-* GitHub: https://github.com/HemaG88
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving the repository a ⭐ on GitHub.
+Thank u hope this project helped u & worth it
