@@ -5,16 +5,6 @@ Search your images using natural language — no tags, no filenames, no manual o
 🔗 **Live :** https://clip-visual-search-engine.streamlit.app/
 
 
----
-
-## 🎬 Demo
-
-<p align="center">
-  <img src="demo.gif" alt="Visual Search Engine Demo" width="900">
-</p>
-
----
-
 
 ## Features
 
